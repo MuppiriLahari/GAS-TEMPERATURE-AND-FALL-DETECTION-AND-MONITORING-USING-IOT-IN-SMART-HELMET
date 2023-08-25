@@ -1,4 +1,4 @@
-#GAS, TEMPERATURE AND FALL DETECTION AND MONITORING USING IOT IN SMART HELMET
+# GAS, TEMPERATURE, AND FALL DETECTION AND MONITORING USING IOT IN SMART HELMET
 A smart helmet equipped with gas, fall, and temperature sensors is a crucial safety device used in mining industries to protect workers from various hazards. Here's a brief overview of its features and functions:
 
 Gas Sensor: The smart helmet incorporates a gas sensor capable of detecting toxic or flammable gases commonly found in mining environments, such as methane, carbon monoxide, or hydrogen sulfide. If the sensor detects high gas levels, it can trigger an alarm or provide real-time alerts to the wearer, indicating the need for immediate evacuation or precautionary measures.
